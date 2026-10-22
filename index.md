@@ -24,8 +24,8 @@ Rechtliche Dokumente für die mobile App **RankR** (iOS & Android). / Legal docu
 
 ## Quellen & Lizenzen / Data Sources & Credits
 
-- [Deutsch](credits/de.html)
-- [English](credits/en.html)
+- [Deutsch](credits/de.html) · [Bildnachweise](credits/images/de.html)
+- [English](credits/en.html) · [Image credits](credits/images/en.html)
 
 ## Löschung von Daten / Data Deletion
 

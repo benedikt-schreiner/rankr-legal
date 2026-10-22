@@ -30,7 +30,7 @@ Recipes, ingredients and recipe images are provided by [TheMealDB](https://www.t
 
 ## Destinations and Restaurant Styles — Wikimedia Commons
 
-The description texts for destinations and restaurant styles were written by the operator. Cover images come from [Wikipedia](https://www.wikipedia.org) articles and from [Wikimedia Commons](https://commons.wikimedia.org). These images are available under various free licences (including CC BY, CC BY-SA, public domain). Author, licence and source of each image are shown on the corresponding file page on Wikimedia Commons. On request we will name the author and licence of a specific image: support@schreiner-apps.de.
+The description texts for destinations and restaurant styles were written by the operator. Cover images come from [Wikipedia](https://www.wikipedia.org) articles and from [Wikimedia Commons](https://commons.wikimedia.org). These images are available under various free licences (including CC BY, CC BY-SA, public domain). Author, licence and source of each image are listed in the [Image credits](images/en.html), per destination or restaurant style, with a link to the file page on Wikimedia Commons. For questions about a specific image: support@schreiner-apps.de.
 
 ## Videos — YouTube
 

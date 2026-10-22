@@ -30,7 +30,7 @@ Rezepte, Zutaten und Rezeptbilder stammen von [TheMealDB](https://www.themealdb.
 
 ## Reiseziele und Restaurant-Stile — Wikimedia Commons
 
-Die Beschreibungstexte zu Reisezielen und Restaurant-Stilen wurden vom Betreiber verfasst. Titelbilder stammen aus Artikeln der [Wikipedia](https://www.wikipedia.org) und von [Wikimedia Commons](https://commons.wikimedia.org). Diese Bilder stehen unter verschiedenen freien Lizenzen (u. a. CC BY, CC BY-SA, gemeinfrei). Urheber, Lizenz und Quelle jedes Bildes sind auf der zugehörigen Dateiseite bei Wikimedia Commons ausgewiesen. Auf Anfrage nennen wir Urheber und Lizenz zu einem bestimmten Bild: support@schreiner-apps.de.
+Die Beschreibungstexte zu Reisezielen und Restaurant-Stilen wurden vom Betreiber verfasst. Titelbilder stammen aus Artikeln der [Wikipedia](https://www.wikipedia.org) und von [Wikimedia Commons](https://commons.wikimedia.org). Diese Bilder stehen unter verschiedenen freien Lizenzen (u. a. CC BY, CC BY-SA, gemeinfrei). Urheber, Lizenz und Quelle jedes Bildes findest du in den [Bildnachweisen](images/de.html); dort sind sie je Reiseziel bzw. Restaurant-Stil mit Link zur Dateiseite bei Wikimedia Commons aufgeführt. Bei Fragen zu einem bestimmten Bild: support@schreiner-apps.de.
 
 ## Videos — YouTube
 

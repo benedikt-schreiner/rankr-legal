@@ -42,7 +42,7 @@ Folgende Inhalte speichern wir zu deinem Konto:
 - Bewertungen (Punkte 1–10), Duell-Entscheidungen, Merkliste und übersprungene Vorschläge
 - Selbst angelegte Kategorien und Einträge (Titel, Beschreibung, Tags, optional ein Bild)
 - Gruppen, die du erstellst oder denen du angehörst, Gruppenrunden, in Gruppen vorgeschlagene oder hinzugefügte Einträge und Sets
-- Käufe und freigeschaltete Premium-Funktionen bzw. Sets (nur die Information, was für dein Konto freigeschaltet ist; keine Zahlungsdaten)
+- Käufe und Abonnements: gekauftes Produkt, Kauf-/Transaktionskennung des Stores, Status (aktiv, abgelaufen, erstattet), Ablaufdatum, Umgebung (Test oder Produktiv) und die Zuordnung zu deinem Konto; keine Zahlungsdaten
 - Deine Blockierliste (welche Nutzer du blockiert hast)
 - App-Einstellungen wie Darstellung und Sprache sowie deine Benachrichtigungs-Einstellungen
 
@@ -97,7 +97,7 @@ Zustellung von Push-Benachrichtigungen, siehe Abschnitt 7. Weitere Informationen
 Nur wenn du dich über Apple oder Google anmeldest, siehe Abschnitt 3.
 
 **Apple App Store / Google Play Store (Käufe und Abonnements)**
-Bei Käufen und Abonnements wickeln Apple bzw. Google die Zahlung, die Verlängerung, die Kündigung und Erstattungen nach ihren eigenen Datenschutzrichtlinien ab. RankR erhält keine Zahlungsdaten, sondern nur die Bestätigung, welches Produkt für dein Konto freigeschaltet ist, und speichert dies mit deinem Konto.
+Bei Käufen und Abonnements wickeln Apple bzw. Google die Zahlung, die Verlängerung, die Kündigung und Erstattungen nach ihren eigenen Datenschutzrichtlinien ab. RankR erhält keine Zahlungsdaten, sondern nur die Bestätigung, welches Produkt für dein Konto freigeschaltet ist, und speichert dies mit deinem Konto. Beim Kauf gibt die App deine pseudonyme Konto-Kennung (eine zufällige ID, keine E-Mail-Adresse) an den Store, damit der Kauf deinem Konto zugeordnet werden kann. Zur Prüfung deines Kaufs sendet unser Server die Transaktionskennung bzw. das Kauf-Token an Apple (App Store Server API) bzw. Google (Google Play Developer API). Außerdem informieren uns Apple und Google serverseitig über Verlängerungen, Kündigungen und Erstattungen (diese Benachrichtigungen enthalten Kaufkennungen, keine Zahlungsdaten).
 
 **TMDB, TheMealDB, Open Library, Wikimedia (Bilder und Inhalte)**
 Poster von Filmen und Serien lädt die App direkt von den Servern von TMDB (image.tmdb.org), Rezeptbilder von TheMealDB (themealdb.com), Buchcover von Open Library bzw. dem Internet Archive (covers.openlibrary.org) und Bilder zu Reisezielen und Restaurant-Stilen von Wikimedia Commons (upload.wikimedia.org; Wikimedia Foundation, USA). Dabei werden deine IP-Adresse und übliche technische Angaben (z. B. Gerätetyp) an diese Anbieter übermittelt. Weitere personenbezogene Daten werden nicht übertragen. Einen Teil der Bilder spiegeln wir in unserem eigenen Speicher; dann wird nur Supabase kontaktiert.
@@ -132,7 +132,7 @@ Wir speichern deine Daten, solange dein Konto besteht. In der App kannst du unte
 
 Von dir angelegte Einträge bleiben nach der Kontolöschung ohne Verbindung zu deiner Person bestehen; öffentliche Einträge bleiben dabei für andere sichtbar. Möchtest du, dass auch diese Einträge oder hochgeladene Bilder entfernt werden, schreib uns an support@schreiner-apps.de.
 
-Daten, die Apple oder Google im Zusammenhang mit Käufen speichern, liegen in deren Verantwortung; ein bestehendes Abonnement wird durch das Löschen des RankR-Kontos nicht automatisch beendet und muss im jeweiligen Store gekündigt werden. Gesetzliche Aufbewahrungspflichten (z. B. steuerrechtlich) treffen uns nur für Daten, die bei uns anfallen; Zahlungsbelege führen die Stores.
+Daten, die Apple oder Google im Zusammenhang mit Käufen speichern, liegen in deren Verantwortung; ein bestehendes Abonnement wird durch das Löschen des RankR-Kontos nicht automatisch beendet und muss im jeweiligen Store gekündigt werden. Unsere gespeicherten Kaufdaten (Kennungen, Status, Ablaufdatum) werden mit dem Konto gelöscht. Gesetzliche Aufbewahrungspflichten (z. B. steuerrechtlich) treffen uns nur für Daten, die bei uns anfallen; Zahlungsbelege führen die Stores.
 
 Details zur Löschung findest du auf der Seite [Löschung von Daten](../deletion/de.html).
 

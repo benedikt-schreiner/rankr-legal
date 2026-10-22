@@ -19,7 +19,7 @@ Wir bemühen uns, Anfragen innerhalb weniger Werktage zu beantworten.
 ## Häufige Themen
 
 **Premium oder ein gekauftes Set ist nicht freigeschaltet**
-Prüfe zunächst in der App, ob sich der Kauf über „Käufe wiederherstellen“ erneut freischalten lässt, und stelle sicher, dass du mit demselben Apple- bzw. Google-Konto angemeldet bist, mit dem du gekauft hast. Falls das Problem weiterhin besteht, kontaktiere uns per E-Mail mit dem Kaufdatum und, falls vorhanden, dem Kaufbeleg aus dem App Store bzw. Google Play.
+Prüfe zunächst in der App, ob sich der Kauf über „Wiederherstellen“ (oben rechts im Premium-Bildschirm: Einstellungen → Mehr → RankR Premium) erneut freischalten lässt, und stelle sicher, dass du mit demselben Apple- bzw. Google-Konto und demselben RankR-Konto angemeldet bist, mit denen du gekauft hast. Falls das Problem weiterhin besteht, kontaktiere uns per E-Mail mit dem Kaufdatum und, falls vorhanden, dem Kaufbeleg aus dem App Store bzw. Google Play.
 
 **Abonnement kündigen oder Erstattung**
 Abonnements werden im jeweiligen Store verwaltet: iPhone/iPad: Einstellungen → [dein Name] → Abonnements; Android: Google Play → Zahlungen und Abos → Abos. Erstattungen werden von Apple bzw. Google bearbeitet.

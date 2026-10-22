@@ -42,7 +42,7 @@ We store the following content with your account:
 - Ratings (scores 1–10), duel decisions, your watchlist and skipped suggestions
 - Categories and entries you create (title, description, tags, optionally an image)
 - Groups you create or belong to, group rounds, and entries or sets suggested or added in groups
-- Purchases and unlocked premium features or sets (only the information about what is unlocked for your account; no payment data)
+- Purchases and subscriptions: purchased product, the store's purchase/transaction identifier, status (active, expired, refunded), expiry date, environment (test or production) and the link to your account; no payment data
 - Your block list (which users you have blocked)
 - App settings such as appearance and language, as well as your notification settings
 
@@ -97,7 +97,7 @@ Delivery of push notifications, see Section 7. More info: [firebase.google.com/s
 Only if you sign in via Apple or Google, see Section 3.
 
 **Apple App Store / Google Play Store (purchases and subscriptions)**
-For purchases and subscriptions, Apple or Google handle payment, renewal, cancellation and refunds under their own privacy policies. RankR receives no payment data, only the confirmation of which product is unlocked for your account, and stores this with your account.
+For purchases and subscriptions, Apple or Google handle payment, renewal, cancellation and refunds under their own privacy policies. RankR receives no payment data, only the confirmation of which product is unlocked for your account, and stores this with your account. When you buy, the app passes your pseudonymous account identifier (a random ID, not an email address) to the store so that the purchase can be assigned to your account. To verify your purchase, our server sends the transaction identifier or purchase token to Apple (App Store Server API) or Google (Google Play Developer API). Apple and Google also notify us server-side about renewals, cancellations and refunds (these notifications contain purchase identifiers, not payment data).
 
 **TMDB, TheMealDB, Open Library, Wikimedia (images and content)**
 The app loads movie and series posters directly from TMDB’s servers (image.tmdb.org), recipe images from TheMealDB (themealdb.com), book covers from Open Library / the Internet Archive (covers.openlibrary.org) and images of destinations and restaurant styles from Wikimedia Commons (upload.wikimedia.org; Wikimedia Foundation, USA). Your IP address and standard technical information (e.g. device type) are transmitted to these providers. No other personal data is transferred. We mirror some of the images to our own storage; in that case only Supabase is contacted.
@@ -132,7 +132,7 @@ We store your data for as long as your account exists. In the app, under Setting
 
 Entries you created remain after account deletion without any link to you; public entries stay visible to others. If you want these entries or uploaded images removed as well, contact us at support@schreiner-apps.de.
 
-Data that Apple or Google store in connection with purchases is their responsibility; an existing subscription is not ended automatically when you delete your RankR account and must be cancelled in the respective store. Statutory retention obligations (e.g. under tax law) affect us only for data arising with us; payment receipts are kept by the stores.
+Data that Apple or Google store in connection with purchases is their responsibility; an existing subscription is not ended automatically when you delete your RankR account and must be cancelled in the respective store. Our stored purchase data (identifiers, status, expiry date) is deleted with the account. Statutory retention obligations (e.g. under tax law) affect us only for data arising with us; payment receipts are kept by the stores.
 
 Details on deletion can be found on the page [Data Deletion](../deletion/en.html).
 

@@ -39,7 +39,7 @@ Purchases are made exclusively via the Apple App Store or Google Play Store; pay
 
 **Withdrawal and refunds.** The provisions of the respective platform (Apple or Google) apply to the exercise of the statutory right of withdrawal and to refunds of in-app purchases. Requests must be directed to Apple or Google; RankR has no influence on such decisions. For consumers, the right of withdrawal for digital content can expire early if the user has expressly consented to performance beginning before the withdrawal period ends and has acknowledged that this causes them to lose their right of withdrawal; this is requested in the store’s purchase flow.
 
-**Restoring purchases.** Purchased services are tied to the Apple or Google account and can be unlocked again via “Restore purchases” in the app.
+**Restoring purchases.** Purchased services are tied to the Apple or Google account and can be unlocked again via “Restore” in the Premium area of the app (Settings → More → RankR Premium). A purchase is assigned to the RankR account it was made with and cannot be transferred to a different RankR account.
 
 **Minors.** Purchases require full legal capacity. Minors need the prior consent of their legal guardian before making a purchase.
 

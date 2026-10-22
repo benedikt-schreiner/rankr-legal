@@ -19,7 +19,7 @@ We aim to respond to requests within a few business days.
 ## Common topics
 
 **Premium or a purchased set is not unlocked**
-First check in the app whether “Restore purchases” unlocks it again, and make sure you are signed in with the same Apple or Google account you purchased with. If the problem persists, contact us by email with the purchase date and, if available, the receipt from the App Store or Google Play.
+First check in the app whether “Restore” (top right on the Premium screen: Settings → More → RankR Premium) unlocks it again, and make sure you are signed in with the same Apple or Google account and the same RankR account you purchased with. If the problem persists, contact us by email with the purchase date and, if available, the receipt from the App Store or Google Play.
 
 **Cancelling a subscription or getting a refund**
 Subscriptions are managed in the respective store: iPhone/iPad: Settings → [your name] → Subscriptions; Android: Google Play → Payments & subscriptions → Subscriptions. Refunds are handled by Apple or Google.

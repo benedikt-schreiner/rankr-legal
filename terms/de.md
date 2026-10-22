@@ -39,7 +39,7 @@ Der Kauf erfolgt ausschließlich über den Apple App Store bzw. Google Play Stor
 
 **Widerruf und Erstattung.** Für die Ausübung des gesetzlichen Widerrufsrechts sowie für Rückerstattungen bei In-App-Käufen gelten die Bestimmungen der jeweiligen Plattform (Apple bzw. Google). Anfragen sind direkt an Apple bzw. Google zu richten; RankR hat auf entsprechende Entscheidungen keinen Einfluss. Bei Verbrauchern kann das Widerrufsrecht bei digitalen Inhalten vorzeitig erlöschen, wenn der Nutzer ausdrücklich zugestimmt hat, dass die Ausführung vor Ablauf der Widerrufsfrist beginnt, und er bestätigt hat, dass er dadurch sein Widerrufsrecht verliert; dies wird im Kaufablauf des Stores abgefragt.
 
-**Wiederherstellung.** Gekaufte Leistungen sind an das Konto bei Apple bzw. Google gebunden und können über „Käufe wiederherstellen“ in der App erneut freigeschaltet werden.
+**Wiederherstellung.** Gekaufte Leistungen sind an das Konto bei Apple bzw. Google gebunden und können über „Wiederherstellen“ im Premium-Bereich der App (Einstellungen → Mehr → RankR Premium) erneut freigeschaltet werden. Ein Kauf wird dem RankR-Konto zugeordnet, mit dem er getätigt wurde, und lässt sich nicht auf ein anderes RankR-Konto übertragen.
 
 **Minderjährige.** Käufe setzen die uneingeschränkte Geschäftsfähigkeit voraus. Minderjährige benötigen vor einem Kauf die vorherige Zustimmung ihres gesetzlichen Vertreters.
 

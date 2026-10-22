@@ -57,7 +57,7 @@ Der Ersteller einer Gruppe kann einen zeitlich begrenzten Einladungs-Link erzeug
 - Vor dem Beitritt holen wir deine ausdrückliche Einwilligung ein, dass dein Name und deine Bewertungen für diese Gruppe verarbeitet werden. Den Zeitpunkt der Einwilligung speichern wir.
 - Deine Bewertungen und Duell-Entscheidungen werden wie bei angemeldeten Mitgliedern in die gemeinsame Rangliste der Gruppe einbezogen.
 - Im Browser speichert die Gast-Webseite lokal (Local Storage) eine Kennung deines Gast-Kontos sowie Zwischenstände, damit du bei einem erneuten Besuch des Links wieder in der Gruppe bist. Diese Daten kannst du jederzeit über die Browser-Einstellungen löschen; dann ist der Zugang zu diesem Gast-Konto verloren.
-- Die statischen Dateien der Gast-Webseite werden von einem Hosting-Anbieter ausgeliefert. Dabei fallen technisch bedingt Server-Logdaten an (IP-Adresse, Zeitpunkt, abgerufene Seite). <!-- TODO: Hosting-Anbieter (z. B. Cloudflare Pages / Netlify) und Standort hier benennen, sobald festgelegt. -->
+- Die statischen Dateien der Gast-Webseite werden bei STRATO (STRATO GmbH, Berlin, Deutschland) gehostet und von dort ausgeliefert. Dabei fallen technisch bedingt Server-Logdaten an (IP-Adresse, Zeitpunkt, abgerufene Seite). Mit STRATO besteht ein Auftragsverarbeitungsvertrag.
 - Gruppen-Besitzer können Links jederzeit widerrufen.
 
 Löschung deiner Gast-Daten: Schreib uns an support@schreiner-apps.de und nenne den Namen, unter dem du teilgenommen hast, sowie die Gruppe (siehe auch unsere Seite „Löschung von Daten“).
@@ -85,7 +85,7 @@ Auf deinem Gerät speichert die App das Sitzungs-Token sowie Einstellungen wie D
 ## 10. Externe Dienste und Empfänger
 
 **Supabase** (Supabase Inc., San Francisco, USA)
-Supabase stellt unser Backend bereit: Anmeldung, Datenbank, Speicher für hochgeladene Bilder und serverseitige Funktionen. Alle in den Abschnitten 3 bis 7 genannten Daten werden dort gespeichert. Dabei wird technisch bedingt auch deine IP-Adresse verarbeitet. Mit Supabase besteht ein Auftragsverarbeitungsvertrag. <!-- TODO: Region des Supabase-Projekts (z. B. EU/Frankfurt) hier eintragen. --> Weitere Informationen: [supabase.com/privacy](https://supabase.com/privacy)
+Supabase stellt unser Backend bereit: Anmeldung, Datenbank, Speicher für hochgeladene Bilder und serverseitige Funktionen. Alle in den Abschnitten 3 bis 7 genannten Daten werden dort gespeichert. Dabei wird technisch bedingt auch deine IP-Adresse verarbeitet. Das Projekt wird in der Region „West Europe (London)“ betrieben, die Daten liegen also auf Servern im Vereinigten Königreich. Mit Supabase besteht ein Auftragsverarbeitungsvertrag. Weitere Informationen: [supabase.com/privacy](https://supabase.com/privacy)
 
 **Google Firebase Cloud Messaging** (Google Ireland Limited, Dublin, Irland / Google LLC, USA)
 Zustellung von Push-Benachrichtigungen, siehe Abschnitt 7. Weitere Informationen: [firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
@@ -118,7 +118,7 @@ Die Verarbeitung erfolgt auf Grundlage von
 
 ## 12. Datenübermittlung in Drittländer
 
-Supabase, Google, Apple sowie die Bild- und Inhaltsanbieter können Daten auf Servern außerhalb der EU, insbesondere in den USA, verarbeiten. Supabase Inc., Google LLC und Apple Inc. sind nach dem EU-U.S. Data Privacy Framework zertifiziert; ergänzend gelten, soweit erforderlich, Standardvertragsklauseln der EU-Kommission.
+Unsere Daten liegen bei Supabase auf Servern im Vereinigten Königreich (London). Für das Vereinigte Königreich besteht ein Angemessenheitsbeschluss der EU-Kommission. Supabase, Google, Apple sowie die Bild- und Inhaltsanbieter können Daten außerdem auf Servern außerhalb der EU, insbesondere in den USA, verarbeiten (z. B. beim Zugriff durch das Unternehmen selbst oder beim Laden von Bildern). Supabase Inc., Google LLC und Apple Inc. sind nach dem EU-U.S. Data Privacy Framework zertifiziert; ergänzend gelten, soweit erforderlich, Standardvertragsklauseln der EU-Kommission.
 
 ## 13. Speicherdauer und Löschung
 

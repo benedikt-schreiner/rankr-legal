@@ -57,7 +57,7 @@ The creator of a group can generate a time-limited invitation link. Anyone who o
 - Before joining, we ask for your explicit consent that your name and ratings are processed for this group. We store the time of consent.
 - Your ratings and duel decisions are included in the group’s shared ranking just like those of signed-in members.
 - In your browser, the guest website stores an identifier of your guest account and interim state locally (Local Storage) so that you are back in the group when you revisit the link. You can delete this data at any time via your browser settings; access to that guest account is then lost.
-- The static files of the guest website are delivered by a hosting provider. For technical reasons, server log data is generated (IP address, time, page requested). <!-- TODO: name hosting provider (e.g. Cloudflare Pages / Netlify) and location once decided. -->
+- The static files of the guest website are hosted at and delivered from STRATO (STRATO GmbH, Berlin, Germany). For technical reasons, server log data is generated (IP address, time, page requested). A data processing agreement is in place with STRATO.
 - Group owners can revoke links at any time.
 
 Deleting your guest data: write to support@schreiner-apps.de and tell us the name you used and the group (see also our “Data Deletion” page).
@@ -85,7 +85,7 @@ On your device, the app stores the session token and settings such as appearance
 ## 10. External Services and Recipients
 
 **Supabase** (Supabase Inc., San Francisco, USA)
-Supabase provides our backend: sign-in, database, storage for uploaded images and server-side functions. All data listed in Sections 3 to 7 is stored there. For technical reasons, your IP address is processed as well. A data processing agreement is in place with Supabase. <!-- TODO: enter region of the Supabase project (e.g. EU/Frankfurt). --> More info: [supabase.com/privacy](https://supabase.com/privacy)
+Supabase provides our backend: sign-in, database, storage for uploaded images and server-side functions. All data listed in Sections 3 to 7 is stored there. For technical reasons, your IP address is processed as well. The project runs in the “West Europe (London)” region, so the data is stored on servers in the United Kingdom. A data processing agreement is in place with Supabase. More info: [supabase.com/privacy](https://supabase.com/privacy)
 
 **Google Firebase Cloud Messaging** (Google Ireland Limited, Dublin, Ireland / Google LLC, USA)
 Delivery of push notifications, see Section 7. More info: [firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
@@ -118,7 +118,7 @@ Processing is based on
 
 ## 12. International Data Transfers
 
-Supabase, Google, Apple and the image and content providers may process data on servers outside the EU, in particular in the USA. Supabase Inc., Google LLC and Apple Inc. are certified under the EU–U.S. Data Privacy Framework; where required, the EU Commission’s standard contractual clauses additionally apply.
+Our data is stored at Supabase on servers in the United Kingdom (London). The EU Commission has adopted an adequacy decision for the United Kingdom. Supabase, Google, Apple and the image and content providers may additionally process data on servers outside the EU, in particular in the USA (e.g. through access by the company itself or when loading images). Supabase Inc., Google LLC and Apple Inc. are certified under the EU–U.S. Data Privacy Framework; where required, the EU Commission’s standard contractual clauses additionally apply.
 
 ## 13. Retention and Deletion
 

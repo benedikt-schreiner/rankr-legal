@@ -51,7 +51,13 @@ Nutzer können eigene Inhalte einstellen, z. B. eigene Kategorien und Einträge 
 
 **Rechteeinräumung.** Der Nutzer behält alle Rechte an seinen Nutzerinhalten. Er räumt RankR das einfache, räumlich unbeschränkte, auf die Dauer der Speicherung begrenzte Recht ein, die Nutzerinhalte zu speichern und in der App entsprechend der vom Nutzer gewählten Sichtbarkeit (privat, Gruppen, öffentlich) anzuzeigen, zu vervielfältigen und technisch zu verarbeiten (z. B. Bildgrößen anzupassen). Der Nutzer versichert, die dafür erforderlichen Rechte zu besitzen.
 
-**Moderation.** RankR prüft Nutzerinhalte nicht vorab. Rechtswidrige oder gegen diese Bedingungen verstoßende Inhalte können gemeldet werden (support@schreiner-apps.de) und werden nach Kenntnis und Prüfung entfernt; wir können Inhalte und Konten bei Verstößen sperren oder löschen. Öffentliche Einträge bleiben nach Löschung des Kontos ohne Verbindung zur Person bestehen (siehe Datenschutzerklärung); auf Wunsch entfernen wir sie.
+**Keine Toleranz für anstößige Inhalte.** Für anstößige, rechtswidrige oder missbräuchliche Inhalte und Verhaltensweisen gilt bei RankR Null-Toleranz. Wer dagegen verstößt, muss mit dem Entfernen der Inhalte und der Sperrung oder Löschung seines Kontos rechnen.
+
+**Melden.** RankR prüft Nutzerinhalte nicht vorab. Einträge, Gruppen und Profile lassen sich direkt in der App melden: bei Einträgen über das Flaggen-Symbol in der Detailansicht, bei Gruppen und Mitgliedern in der Gruppenbearbeitung (Menü „…“ bzw. „Gruppe melden“). Alternativ erreichst du uns unter support@schreiner-apps.de. Wir prüfen Meldungen in der Regel innerhalb von 24 Stunden, entfernen Inhalte, die gegen diese Bedingungen verstoßen, und sperren die verantwortlichen Konten. Öffentliche Einträge, die mehrere Nutzer melden, können bis zur Prüfung vorläufig ausgeblendet werden. Missbräuchliche oder unberechtigte Meldungen können ihrerseits zur Sperrung führen.
+
+**Blockieren.** Du kannst andere Nutzer in der App blockieren (Mitgliederliste, Menü „…“). Blockierte Nutzer erscheinen nicht mehr in deiner Suche und deinen Mitgliederlisten, und ihre Einträge werden dir nicht mehr angezeigt. Die Liste verwaltest du unter Einstellungen → Blockierte Nutzer.
+
+**Textfilter.** Titel, Beschreibungen, Namen und ähnliche Texte werden beim Speichern automatisch auf unzulässige Begriffe geprüft; entsprechende Texte können abgelehnt werden. Ein vollständiger Schutz ist dadurch nicht gewährleistet. Öffentliche Einträge bleiben nach Löschung des Kontos ohne Verbindung zur Person bestehen (siehe Datenschutzerklärung); auf Wunsch entfernen wir sie.
 
 ## § 7 Gruppen
 

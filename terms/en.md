@@ -51,7 +51,13 @@ Users can submit their own content, e.g. their own categories and entries (title
 
 **Grant of rights.** The user retains all rights to their User Content. The user grants RankR a simple, worldwide right, limited to the duration of storage, to store the User Content and to display, reproduce and technically process it in the app according to the visibility chosen by the user (private, groups, public) (e.g. resizing images). The user warrants that they hold the necessary rights.
 
-**Moderation.** RankR does not review User Content in advance. Unlawful content or content in breach of these terms can be reported (support@schreiner-apps.de) and will be removed after we become aware of it and have reviewed it; we may block or delete content and accounts in case of violations. Public entries remain after account deletion without any link to the person (see Privacy Policy); we remove them on request.
+**Zero tolerance for objectionable content.** RankR has zero tolerance for objectionable, unlawful or abusive content and behaviour. Anyone who violates this must expect their content to be removed and their account to be suspended or deleted.
+
+**Reporting.** RankR does not review User Content in advance. Entries, groups and profiles can be reported directly in the app: for entries via the flag icon in the detail view, for groups and members in the group editor (“…” menu or “Report group”). You can also reach us at support@schreiner-apps.de. We usually review reports within 24 hours, remove content that violates these terms and suspend the accounts responsible. Public entries reported by several users may be hidden temporarily pending review. Abusive or unfounded reports may themselves lead to suspension.
+
+**Blocking.** You can block other users in the app (member list, “…” menu). Blocked users no longer appear in your search and member lists, and their entries are no longer shown to you. You manage the list under Settings → Blocked users.
+
+**Text filter.** Titles, descriptions, names and similar texts are automatically checked for prohibited terms when saved; such texts may be rejected. This does not guarantee complete protection. Public entries remain after account deletion without any link to the person (see Privacy Policy); we remove them on request.
 
 ## § 7 Groups
 

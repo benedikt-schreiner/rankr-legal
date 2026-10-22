@@ -27,8 +27,8 @@ Subscriptions are managed in the respective store: iPhone/iPad: Settings → [yo
 **Sign-in or password**
 Use “Forgot password” on the sign-in screen. If you registered with Apple or Google, sign in with that provider again.
 
-**Reporting content (user content, groups)**
-Write to support@schreiner-apps.de with the name of the entry or group and a short reason. We review unlawful content or content violating the Terms of Use promptly.
+**Reporting content and blocking users**
+Report entries with the flag icon at the top left of the detail view. Report groups and members in the group editor (“Report group” or the “…” menu next to a member); you can also block members there. Manage blocked users under Settings → Blocked users. We usually review reports within 24 hours. You can also write to us directly: support@schreiner-apps.de.
 
 **Wrong information about movies, books, recipes or destinations**
 Much of the data comes from third parties (see [Data Sources & Credits](../credits/en.html)). If you notice an error, we appreciate a note by email.

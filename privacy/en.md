@@ -43,7 +43,10 @@ We store the following content with your account:
 - Categories and entries you create (title, description, tags, optionally an image)
 - Groups you create or belong to, group rounds, and entries or sets suggested or added in groups
 - Purchases and unlocked premium features or sets (only the information about what is unlocked for your account; no payment data)
+- Your block list (which users you have blocked)
 - App settings such as appearance and language, as well as your notification settings
+
+If you report an entry, a group or a user, we store the report with your account identifier as the reporter, the reported content or user, the chosen reason, your optional free text and the time. We use this data to review reports and to act on violations of the Terms of Use. The reported user is not told who reported them. We are informed of new reports by push notification (Firebase Cloud Messaging). We delete completed reports 12 months after completion. If your account is deleted, the report is anonymised (no link to you). Texts you save (e.g. titles, names) are automatically checked for prohibited terms.
 
 Your individual ratings are not visible to other users. In groups, shared rankings are calculated from the members’ ratings and duels; members see the names and avatars of the other members as well as the shared results.
 

@@ -27,8 +27,8 @@ Abonnements werden im jeweiligen Store verwaltet: iPhone/iPad: Einstellungen →
 **Anmeldung oder Passwort**
 Nutze „Passwort vergessen“ im Anmeldebildschirm. Hast du dich mit Apple oder Google registriert, melde dich auch wieder darüber an.
 
-**Inhalt melden (Nutzerinhalte, Gruppen)**
-Schreib uns an support@schreiner-apps.de mit dem Namen des Eintrags bzw. der Gruppe und einer kurzen Begründung. Rechtswidrige oder gegen die Nutzungsbedingungen verstoßende Inhalte prüfen wir zeitnah.
+**Inhalte melden und Nutzer blockieren**
+Einträge meldest du über das Flaggen-Symbol oben links in der Detailansicht. Gruppen und Mitglieder meldest du in der Gruppenbearbeitung („Gruppe melden“ bzw. Menü „…“ neben einem Mitglied); dort kannst du Mitglieder auch blockieren. Blockierte Nutzer verwaltest du unter Einstellungen → Blockierte Nutzer. Wir prüfen Meldungen in der Regel innerhalb von 24 Stunden. Du kannst uns auch direkt schreiben: support@schreiner-apps.de.
 
 **Falsche Angaben zu Filmen, Büchern, Rezepten oder Reisezielen**
 Die Daten stammen zum großen Teil von Drittanbietern (siehe [Quellen & Lizenzen](../credits/de.html)). Wenn dir ein Fehler auffällt, freuen wir uns über einen Hinweis per E-Mail.

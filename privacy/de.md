@@ -43,7 +43,10 @@ Folgende Inhalte speichern wir zu deinem Konto:
 - Selbst angelegte Kategorien und Einträge (Titel, Beschreibung, Tags, optional ein Bild)
 - Gruppen, die du erstellst oder denen du angehörst, Gruppenrunden, in Gruppen vorgeschlagene oder hinzugefügte Einträge und Sets
 - Käufe und freigeschaltete Premium-Funktionen bzw. Sets (nur die Information, was für dein Konto freigeschaltet ist; keine Zahlungsdaten)
+- Deine Blockierliste (welche Nutzer du blockiert hast)
 - App-Einstellungen wie Darstellung und Sprache sowie deine Benachrichtigungs-Einstellungen
+
+Wenn du einen Eintrag, eine Gruppe oder einen Nutzer meldest, speichern wir die Meldung mit deiner Konto-Kennung als Melder, dem gemeldeten Inhalt bzw. Nutzer, dem gewählten Grund, deinem optionalen Freitext und dem Zeitpunkt. Wir nutzen diese Daten, um Meldungen zu prüfen und Verstöße gegen die Nutzungsbedingungen zu ahnden. Der gemeldete Nutzer erfährt nicht, wer ihn gemeldet hat. Über neue Meldungen werden wir per Push-Benachrichtigung (Firebase Cloud Messaging) informiert. Abgeschlossene Meldungen löschen wir 12 Monate nach Abschluss. Wird dein Konto gelöscht, wird die Meldung anonymisiert (ohne Bezug zu dir). Texte, die du speicherst (z. B. Titel, Namen), werden automatisch auf unzulässige Begriffe geprüft.
 
 Deine Einzelbewertungen sind für andere Nutzer nicht einsehbar. In Gruppen werden aus den Bewertungen und Duellen der Mitglieder gemeinsame Ranglisten berechnet; Mitglieder sehen dabei die Namen und Avatare der anderen Mitglieder sowie die gemeinsamen Ergebnisse.
 
